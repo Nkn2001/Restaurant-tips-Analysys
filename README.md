@@ -13,4 +13,10 @@ Dataset: https://raw.githubusercontent.com/RusAbk/sca_datasets/main/tips.csv
 - Columns: 8
 - Key Columns: `id`, `total_bill`, `tip`, `sex`, `smoker`, `day`, `time`, `size`
 ### 2.3 How to Access the Data
-You can download the dataset directly from this raw link:  https://raw.githubusercontent.com/RusAbk/sca_datasets/main/tips.csv 
+This project runs on Google Colab, and the dataset is loaded directly using Python. No manual download is needed.
+In the notebook, the data is loaded with the following command:
+
+import pandas as pd
+url = "https://raw.githubusercontent.com/RusAbk/sca_datasets/main/tips.csv"
+df = pd.read_csv(url)
+Just run the code cell, and the dataset will be fetched automatically from GitHub.
