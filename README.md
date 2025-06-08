@@ -13,4 +13,4 @@ Dataset: https://raw.githubusercontent.com/RusAbk/sca_datasets/main/tips.csv
 - Columns: 8
 - Key Columns: `id`, `total_bill`, `tip`, `sex`, `smoker`, `day`, `time`, `size`
 ### 2.3 How to Access the Data
-You can download the dataset directly from this raw link:  https://raw.githubusercontent.com/RusAbk/sca_datasets/main/tips.csv
+You can download the dataset directly from this raw link:  https://raw.githubusercontent.com/RusAbk/sca_datasets/main/tips.csv 
