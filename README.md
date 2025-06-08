@@ -1,6 +1,7 @@
 # Restaurant-tips-Analysys
 ## 1. Introduction
 This project aims to use the restaurant tips dataset to practice creating composition plots and visualizations. We will examine the relationship between different variables and the tips given.
+
 ![image](https://github.com/user-attachments/assets/9f6b43cd-60c9-446a-af9a-f6b7b375d419)
 
 ## 2. Data Description
