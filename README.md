@@ -19,4 +19,5 @@ In the notebook, the data is loaded with the following command:
 import pandas as pd
 url = "https://raw.githubusercontent.com/RusAbk/sca_datasets/main/tips.csv"
 df = pd.read_csv(url)
+
 Just run the code cell, and the dataset will be fetched automatically from GitHub.
